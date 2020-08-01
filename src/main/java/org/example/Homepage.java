@@ -32,7 +32,7 @@ public class Homepage extends Util {
         //wait for page to be load
         waitUntilElementIsClickAble(_ComputerLink,30);
         //click on computer link
-        clickOnElement(_ComputerLink,30);
+        clickOnElement(_ComputerLink,40);
     }
     //click on Electronics link
     public void clickOnElectronics()
